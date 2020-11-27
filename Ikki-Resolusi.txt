@@ -4,8 +4,8 @@ IKKI RESOLUSI
   * CSS
   * JS
   * PHP dasar
-  * Trik css
   * Playlist Membuat toko online menggunakan PHP
+  * CSS trik
 - Belajar Laravel
 - Belajar bisnis
 - Bangun bisnis
@@ -16,3 +16,4 @@ IKKI RESOLUSI
   * Perpustakaan
   * Ecommerce
   * Dompet Digital
+- Latihan terus setiap hari membuat website\
