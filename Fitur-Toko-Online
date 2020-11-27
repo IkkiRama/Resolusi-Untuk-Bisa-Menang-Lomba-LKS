@@ -1,5 +1,9 @@
 - Login Pelanggan Dan Admin
-- Produk ada fitur crudnya dan kategori
+- Produk
+  * Hapus
+  * Ubah
+  * Tambah
+  * Relasi ke tabel Kategori
 - Pelanggan
 - Pembayaran yang di konfirmasi oleh adminnya
 - Komentar
