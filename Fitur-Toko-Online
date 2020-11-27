@@ -4,6 +4,14 @@
   * Ubah
   * Tambah
   * Relasi ke tabel Kategori
+  * Relasi ke tabel pembelian_produk, dan pelanggan
 - Pelanggan
+  * Hapus
+  * Ubah
+  * Tambah
+  * Relasi ke tabel produk dan pembelian_produk
 - Pembayaran yang di konfirmasi oleh adminnya
+  * Relasi ke tabel pelanggan, ongkir, dan produk
 - Komentar
+  * Hapus
+  * Relasi ke tabel dan pelanggan
