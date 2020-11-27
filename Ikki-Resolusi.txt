@@ -1,6 +1,7 @@
 IKKI RESOLUSI
 - Mencoba belajar berkomunikasi dengan cara membuat vidio tutorial html, css, dan js
-- Belajar Laravel sampai akar"nya
+- Belajar Laravel
 - Belajar bisnis
 - Bangun bisnis
 - Menjadi Pribadi yang lebih baik lagi
+- Membuat toko online sendiri
