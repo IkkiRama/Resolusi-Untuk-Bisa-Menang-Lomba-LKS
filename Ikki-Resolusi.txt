@@ -4,10 +4,16 @@ IKKI RESOLUSI
   * CSS
   * JS
   * PHP dasar
+  * Playlist Membuat toko online menggunakan PHP
   * CSS trik
 - Belajar Laravel
 - Belajar bisnis
 - Bangun bisnis
 - Menjadi Pribadi yang lebih baik lagi
 - Membuat toko online sendiri
-- Latihan terus setiap hari membuat website
+- Membuat beberapa website untuk melatih skill
+  * Sekolah
+  * Perpustakaan
+  * Ecommerce
+  * Dompet Digital
+- Latihan terus setiap hari membuat website\
