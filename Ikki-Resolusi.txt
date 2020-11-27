@@ -1,7 +1,18 @@
 IKKI RESOLUSI
-- Mencoba belajar berkomunikasi dengan cara membuat vidio tutorial html, css, dan js
+- Mencoba belajar berkomunikasi dengan cara membuat vidio tutorial 
+  * HTML
+  * CSS
+  * JS
+  * PHP dasar
+  * Trik css
+  * Playlist Membuat toko online menggunakan PHP
 - Belajar Laravel
 - Belajar bisnis
 - Bangun bisnis
 - Menjadi Pribadi yang lebih baik lagi
 - Membuat toko online sendiri
+- Membuat beberapa website untuk melatih skill
+  * Sekolah
+  * Perpustakaan
+  * Ecommerce
+  * Dompet Digital
